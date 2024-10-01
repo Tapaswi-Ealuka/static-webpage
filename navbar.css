@@ -1,0 +1,12 @@
+body{
+    background-color: wheat;
+    color: black;
+}
+.nav-item{
+    background-color: black;
+    color: blue;
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+}
+
